@@ -39,7 +39,7 @@
 {
     [textField resignFirstResponder];
     self.Nme=self.NameTxt.text;
-    return YES;
+    return NO;
     
 }
 @end
